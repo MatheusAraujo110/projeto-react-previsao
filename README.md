@@ -1,8 +1,26 @@
-# React + Vite
+# ⛅ Previsão do Tempo ⛅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Olá devs, no projeto de hoje venho trazer um app de Previsão do Tempo que mostra a previsão de hoje e em qualquer cidade do mundo e dos próximos 5 dias. Com a ajuda do nosso mentor Rodolfo Mori que tem a sua formação de ensino Full-Stake chamada DevClub.</p>
 
-Currently, two official plugins are available:
+<br>
+<p>Projeto feito utilizando o framework React. <p>
+<br>
+<p>Neste projeto utilizei API Openweathermap que permite você ter a previsão em tempo real em qualquer parte do mundo e tem a opção de selecionar quantos dias depois você desejar ver.</p>
+<br>
+<p>
+🌐 Ferramentas utilizadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- JavaScript
+- Vite
+- CSS
+
+📚 Bibliotecas utilizadas:
+- Styled-Component - Ele te ajuda a fazer o código de CSS em Javascript.
+- Axios - Biblioteca para fazer requisições HTTP.
+- React-toastify - Para melhor informar o usuário do resultado da pesquisa.
+<br>
+<p>Fiz a minha hospedagem no Vercel, que permite que o seu código em React funcione tranquilo.</p>
+<br>
+
+![Previsão do Tempo - Google Chrome 02_08_2024 20_17_06](https://github.com/user-attachments/assets/66f90bfe-e37b-4e2d-adc6-076ecbe30cc6)
