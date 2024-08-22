@@ -23,7 +23,7 @@
 <p>Fiz a minha hospedagem no Vercel, que permite que o seu código em React funcione tranquilo.</p>
 <br>
 
-<p>Deploy: https://projeto-react-previsao-muebp8nnt-matheusaraujo110s-projects.vercel.app/</p>
+<p>Deploy: https://projeto-react-previsao-7o22.vercel.app//</p>
 <p>Reposiório: https://github.com/MatheusAraujo110/projeto-react-previsao/
 
 ![Previsão do Tempo - Google Chrome 02_08_2024 20_17_06](https://github.com/user-attachments/assets/66f90bfe-e37b-4e2d-adc6-076ecbe30cc6)
